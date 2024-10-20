@@ -150,7 +150,7 @@ languageCode = "ru-ru"
 hugo new posts/welcome.md
 ```
 
-Это создаст файл `welcome.md` в папке `content/posts`. Откройте его и добавьте текст между знаками `+++`:
+Это создаст файл `welcome.md` в папке `content/posts`. Откройте его и добавьте текст после знаков `+++`:
 
 ```markdown
 +++
