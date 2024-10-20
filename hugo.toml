@@ -1,0 +1,12 @@
+baseURL = "https://jawerka.github.io/"
+title = "jawerka"
+theme = "PaperMod"
+languageCode = "ru-ru"
+
+# Параметры темы PaperMod
+[params]
+  author = "jawerka"
+  description = "Размещение гайдов, статей, информации, текстов"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  defaultTheme = "auto"  # автоопределение тёмной или светлой темы

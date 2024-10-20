@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on jawerka</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on jawerka</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 19 Oct 2024 03:49:14 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Install</title>
+      <link>http://localhost:1313/posts/hugo-install/</link>
+      <pubDate>Sat, 19 Oct 2024 03:49:14 +0300</pubDate>
+      <guid>http://localhost:1313/posts/hugo-install/</guid>
+      <description>&lt;h1 id=&#34;подготовка-к-установке&#34;&gt;Подготовка к установке&lt;/h1&gt;
+&lt;p&gt;Для начала необходимо установить Git, подходящий для вашей операционной системы. Скачайте его с официального сайта:&lt;br&gt;
+&lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;https://git-scm.com/downloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Устанавливайте Git, не изменяя стандартные настройки, предложенные установщиком, за исключением одного пункта:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Если у вас уже установлен Notepad++, выберите его в разделе &amp;ldquo;Choosing the default editor used by Git&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;В противном случае рекомендуется выбрать редактор &lt;strong&gt;Nano&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;установка-hugo&#34;&gt;Установка Hugo&lt;/h1&gt;
+&lt;h2 id=&#34;для-windows&#34;&gt;Для Windows&lt;/h2&gt;
+&lt;h4 id=&#34;перейдите-на-страницу-последнего-релиза&#34;&gt;Перейдите на страницу последнего релиза&lt;/h4&gt;
+&lt;p&gt;Зайдите на страницу с последней версией Hugo: &lt;a href=&#34;https://github.com/gohugoio/hugo/releases/latest&#34;&gt;latest release&lt;/a&gt;. Здесь вы найдете исходный код и скомпилированные файлы.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
