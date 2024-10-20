@@ -1,7 +1,7 @@
 name: GitHub Pages
 
 on:
-  push:
+  push: 
     branches:
       - main  # Set a branch to deploy
   pull_request:
@@ -9,6 +9,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
