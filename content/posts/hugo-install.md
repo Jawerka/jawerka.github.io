@@ -1,7 +1,7 @@
 +++
 date = '2024-10-20T09:30:00+03:00'
 draft = false
-title = 'Hugo Install'
+title = 'Установка Hugo'
 +++
 
 # Подготовка к установке
