@@ -1,6 +1,6 @@
 +++
 date = '2024-10-25T09:08:04+03:00'
-draft = true
+draft = false
 title = 'Borg Quick Start'
 +++
 
